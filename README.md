@@ -1,7 +1,6 @@
 # chat_me_ai
 
-Connects WhatsApp to Google Gemini in WhatsApp Chats
-
+Chat with Google Gemini in WhatsApp
 
 ## Requirements
 1. Meta Developer account
